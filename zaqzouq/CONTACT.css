@@ -1,0 +1,108 @@
+ .u-section-1 {
+  background-image: url("images/slogan.JPG");
+  min-height: 532px;
+  background-position: 50% 50%;
+}
+
+@media (max-width: 1199px) {
+   .u-section-1 {
+    min-height: 596px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 909px;
+}
+
+.u-section-2 .u-text-1 {
+  margin: 68px -15px 0 448px;
+}
+
+.u-section-2 .u-text-2 {
+  font-size: 1.875rem;
+  margin: 26px -50px 0 480px;
+}
+
+.u-section-2 .u-form-1 {
+  height: 601px;
+  margin: 53px 168px 60px 205px;
+}
+
+.u-section-2 .u-input-1 {
+  background-image: none;
+  font-weight: 700;
+}
+
+.u-section-2 .u-input-2 {
+  background-image: none;
+  font-weight: 700;
+}
+
+.u-section-2 .u-input-3 {
+  background-image: none;
+  font-weight: 700;
+}
+
+.u-section-2 .u-btn-1 {
+  border-style: solid;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-text-1 {
+    margin-left: 348px;
+  }
+
+  .u-section-2 .u-text-2 {
+    margin-left: 380px;
+  }
+
+  .u-section-2 .u-form-1 {
+    width: 681px;
+    margin-right: 309px;
+    margin-left: 105px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-text-1 {
+    margin-left: 238px;
+  }
+
+  .u-section-2 .u-text-2 {
+    margin-left: 270px;
+  }
+
+  .u-section-2 .u-form-1 {
+    margin-right: 89px;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-text-1 {
+    margin-left: 148px;
+  }
+
+  .u-section-2 .u-text-2 {
+    margin-left: 180px;
+  }
+
+  .u-section-2 .u-form-1 {
+    width: 540px;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-text-1 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-2 .u-text-2 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-2 .u-form-1 {
+    width: 340px;
+  }
+}
